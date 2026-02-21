@@ -1,7 +1,8 @@
 Simon Game - Test Your Memory
 A modern, responsive web-based version of the classic Simon Game. This project challenges users to remember and repeat an ever-increasing sequence of random colors and sounds.
 
-live link : 
+live link :  https://aashik-123-stu.github.io/Simon_game-/
+
 🎮 How to Play
 Start: Press any key on your keyboard to begin the game.
 
